@@ -3,7 +3,7 @@
 
 I built this train lantern project for my toddler son who loves trains.  It uses an Adafruit Trinket M0 running CircuitPython to cycle through some patterns on 4 NeoPixel led's.
 
-![Final Image](.extra/train_lantern.jpg)
+![Final Image](.extra/train_lantern.jpg?s=200)
 
 ## Features
 * Potentiometer with switch
@@ -13,7 +13,7 @@ I built this train lantern project for my toddler son who loves trains.  It uses
 * 4 AA NiMH batteries
 
 ## Circuit Diagram
-![Diagram](.extra/train_lantern_bb.jpg?s=750)
+![Diagram](.extra/train_lantern_bb.jpg?s=200)
 
 ## Constuction
 * The main body is made with 1/2 inch plywood
