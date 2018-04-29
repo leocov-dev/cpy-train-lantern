@@ -8,7 +8,7 @@ I built this train lantern project for my toddler son who loves trains.  It uses
 ## Features
 * Potentiometer with switch
     * Controls power on and NeoPixel brightness
-* Top button
+* Top button with led
     * Cycles through 6 light modes
 * 4 AA NiMH batteries
 
