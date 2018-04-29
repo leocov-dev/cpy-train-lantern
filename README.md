@@ -15,7 +15,11 @@ I built this train lantern project for my toddler son who loves trains.  It uses
 ## Circuit Diagram
 ![Diagram](.extra/train_lantern_bb.jpg?s=200)
 
-## Constuction
+## Construction
 * The main body is made with 1/2 inch plywood
 * The handle was scavenged from a small wooden bucket
 * The lenses are plastic motorcycle turn signal lenses
+
+## Dependencies
+* adafruit neopixel library
+* adafruit_fancyled library
