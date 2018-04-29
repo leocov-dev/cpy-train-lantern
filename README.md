@@ -17,5 +17,5 @@ I built this train lantern project for my toddler son who loves trains.  It uses
 
 ## Constuction
 * The main body is made with 1/2 inch plywood
-* The handle was scavanged from a small wooden bucket
+* The handle was scavenged from a small wooden bucket
 * The lenses are plastic motorcycle turn signal lenses
